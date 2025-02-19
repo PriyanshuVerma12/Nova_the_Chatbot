@@ -1,6 +1,5 @@
 # Nova - The Food Ordering Chatbot
 
-## Overview
 Nova is an AI-powered food ordering chatbot built using **Dialogflow** with **NLP capabilities**. It enables users to seamlessly place new orders and track existing ones through natural conversations. Nova also maintains **context-aware conversations** for a smoother user experience and can handle casual interactions.
 
 ## Features
